@@ -1,22 +1,16 @@
 {
   "global": {
-    "2": {
-      "value": "#040505",
-      "type": "color"
-    },
-    "3": {
-      "value": "#3DB5E0",
-      "type": "color"
-    },
-    "color palette": {
-      "value": "#",
-      "type": "color"
+    "h1": {
+      "value": "24",
+      "type": "fontSizes"
     }
   },
+  "fornt-global": {},
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "global"
+      "global",
+      "fornt-global"
     ]
   }
 }
