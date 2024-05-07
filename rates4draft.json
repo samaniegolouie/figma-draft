@@ -1,5 +1,11 @@
 {
-  "global": {},
+  "global": {
+    "color": {
+      "value": "4",
+      "type": "spacing",
+      "description": "rates 4"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
