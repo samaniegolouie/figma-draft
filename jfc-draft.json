@@ -1,0 +1,14 @@
+{
+  "global": {
+    "test": {
+      "value": 1,
+      "type": "other"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
