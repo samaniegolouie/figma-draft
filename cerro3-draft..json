@@ -2,7 +2,11 @@
   "global": {
     "test": {
       "value": 1,
-      "type": "other"
+      "type": "other",
+      "about": "new update",
+      "practice": "new update",
+      "contact": "new update ",
+      "comment": "Update the responsive view and update other inner page Project-WP-LAWOFFICE 8-14-24"
     }
   },
   "$themes": [],
