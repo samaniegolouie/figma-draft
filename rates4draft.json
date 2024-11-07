@@ -2,8 +2,8 @@
   "global": {
     "color": {
       "value": "4",
-      "type": "spacing",
-      "description": "rates 4"
+      "type": "brightsolution",
+      "description": "1"
     }
   },
   "$themes": [],
