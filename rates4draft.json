@@ -6,10 +6,25 @@
       "description": "1"
     }
   },
+  "insight": {
+    "date": {
+      "value": "31-12-2025",
+      "type": "other"
+    },
+    "project_type": {
+      "value": "insight",
+      "type": "other"
+    },
+    "description": {
+      "value": "UI UX R2 update the shift schedule",
+      "type": "other"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "global"
+      "global",
+      "insight"
     ]
   }
 }
