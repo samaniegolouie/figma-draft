@@ -1,38 +1,5 @@
 {
-  "global": {
-    "test": {
-      "value": 1,
-      "type": "other",
-      "about": "new update",
-      "practice": "new update",
-      "contact": "new update ",
-      "comment": "Update the responsive view and update other inner page Project-WP-LAWOFFICE 8-14-24"
-    },
-    "test1": {
-      "value": 1,
-      "type": "other",
-      "about": "new update",
-      "practice": "new update",
-      "contact": "new update ",
-      "comment": "I'll inline the design for About, Practice Areas, and Contact into the Home 103 design. 8-21-24"
-    },
-    "test2": {
-      "value": 1,
-      "type": "other",
-      "about": "new update",
-      "practice": "new update",
-      "contact": "new update ",
-      "comment": "I'll inline the design for About, Practice Areas, and Contact into the Home 103 design. 9-30-24"
-    },
-    "test3": {
-      "value": 1,
-      "type": "other",
-      "about": "new update",
-      "practice": "new update",
-      "contact": "new update ",
-      "comment": "for prototype neil"
-    }
-  },
+  "global": {},
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
