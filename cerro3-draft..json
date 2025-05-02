@@ -1,5 +1,18 @@
 {
-  "global": {},
+  "global": {
+    "Date": {
+      "value": "5-2-2025",
+      "type": "other"
+    },
+    "Information": {
+      "value": "RD",
+      "type": "other"
+    },
+    "Remarks": {
+      "value": "Draft sample",
+      "type": "other"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
