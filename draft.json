@@ -27,6 +27,16 @@
     "p": {
       "value": "9",
       "type": "fontSizes"
+    },
+    "task": {
+      "date": {
+        "value": "6-15-2025",
+        "type": "other"
+      },
+      "remarks": {
+        "value": "Draft",
+        "type": "other"
+      }
     }
   },
   "fornt-global": {},
